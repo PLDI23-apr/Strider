@@ -1,0 +1,3 @@
+[submodule "libs/Pyverilog"]
+	path = libs/Pyverilog
+	url = https://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@github.com/hejy47/Pyverilog.git

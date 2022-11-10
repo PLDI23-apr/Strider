@@ -1,0 +1,229 @@
+[2022-12-11 16:31:25] {Main.py:77} INFO - Namespace(benchmark='Assignment4V', mode='locate', project=None, version=None)
+[2022-12-11 16:31:25] {Main.py:27} INFO - Start Locate mux21 1.
+[2022-12-11 16:31:27] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:27] {Repair.py:66} INFO - Suspicious Lines: {9, 10, 5}
+[2022-12-11 16:31:27] {Main.py:31} INFO - Locate Completed: 1.9699783325195312s.
+[2022-12-11 16:31:27] {Main.py:27} INFO - Start Locate mux21 2.
+[2022-12-11 16:31:29] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:29] {Repair.py:66} INFO - Suspicious Lines: {9, 12, 5}
+[2022-12-11 16:31:29] {Main.py:31} INFO - Locate Completed: 1.9708747863769531s.
+[2022-12-11 16:31:29] {Main.py:27} INFO - Start Locate mux21 3.
+[2022-12-11 16:31:31] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:31] {Repair.py:66} INFO - Suspicious Lines: {5, 10, 11, 12, 13}
+[2022-12-11 16:31:31] {Main.py:31} INFO - Locate Completed: 1.9820616245269775s.
+[2022-12-11 16:31:31] {Main.py:27} INFO - Start Locate mux21 4.
+[2022-12-11 16:31:33] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:33] {Repair.py:66} INFO - Suspicious Lines: {9, 5}
+[2022-12-11 16:31:33] {Main.py:31} INFO - Locate Completed: 1.9812936782836914s.
+[2022-12-11 16:31:33] {Main.py:27} INFO - Start Locate latch24 1.
+[2022-12-11 16:31:35] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:35] {Repair.py:66} INFO - Suspicious Lines: {9, 11, 13}
+[2022-12-11 16:31:35] {Main.py:31} INFO - Locate Completed: 1.9747314453125s.
+[2022-12-11 16:31:35] {Main.py:27} INFO - Start Locate latch24 2.
+[2022-12-11 16:31:37] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:37] {Repair.py:66} INFO - Suspicious Lines: {8, 7}
+[2022-12-11 16:31:37] {Main.py:31} INFO - Locate Completed: 1.9881536960601807s.
+[2022-12-11 16:31:37] {Main.py:27} INFO - Start Locate latch24 3.
+[2022-12-11 16:31:39] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:39] {Repair.py:66} INFO - Suspicious Lines: {9, 10}
+[2022-12-11 16:31:39] {Main.py:31} INFO - Locate Completed: 1.993666172027588s.
+[2022-12-11 16:31:39] {Main.py:27} INFO - Start Locate latch24 4.
+[2022-12-11 16:31:41] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:41] {Repair.py:66} INFO - Suspicious Lines: {9, 10}
+[2022-12-11 16:31:41] {Main.py:31} INFO - Locate Completed: 2.0748538970947266s.
+[2022-12-11 16:31:41] {Main.py:27} INFO - Start Locate fa_behavioral 1.
+[2022-12-11 16:31:43] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:43] {Repair.py:66} INFO - Suspicious Lines: {9}
+[2022-12-11 16:31:43] {Main.py:31} INFO - Locate Completed: 2.2209033966064453s.
+[2022-12-11 16:31:43] {Main.py:27} INFO - Start Locate fa_behavioral 2.
+[2022-12-11 16:31:45] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:45] {Repair.py:66} INFO - Suspicious Lines: {9}
+[2022-12-11 16:31:45] {Main.py:31} INFO - Locate Completed: 2.353403329849243s.
+[2022-12-11 16:31:45] {Main.py:27} INFO - Start Locate fa_behavioral 3.
+[2022-12-11 16:31:48] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:48] {Repair.py:66} INFO - Suspicious Lines: {9}
+[2022-12-11 16:31:48] {Main.py:31} INFO - Locate Completed: 2.143932580947876s.
+[2022-12-11 16:31:48] {Main.py:27} INFO - Start Locate fa_behavioral 4.
+[2022-12-11 16:31:50] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:50] {Repair.py:66} INFO - Suspicious Lines: {10}
+[2022-12-11 16:31:50] {Main.py:31} INFO - Locate Completed: 2.0486249923706055s.
+[2022-12-11 16:31:50] {Main.py:27} INFO - Start Locate fa_behavioral 5.
+[2022-12-11 16:31:52] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:52] {Repair.py:66} INFO - Suspicious Lines: {9}
+[2022-12-11 16:31:52] {Main.py:31} INFO - Locate Completed: 2.0355706214904785s.
+[2022-12-11 16:31:52] {Main.py:27} INFO - Start Locate decoder3e 1.
+[2022-12-11 16:31:54] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:54] {Repair.py:66} INFO - Suspicious Lines: {12, 13, 15, 16, 17, 18}
+[2022-12-11 16:31:54] {Main.py:31} INFO - Locate Completed: 2.0219802856445312s.
+[2022-12-11 16:31:54] {Main.py:27} INFO - Start Locate decoder3e 2.
+[2022-12-11 16:31:56] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:56] {Repair.py:66} INFO - Suspicious Lines: {16, 12, 13, 15}
+[2022-12-11 16:31:56] {Main.py:31} INFO - Locate Completed: 2.0516693592071533s.
+[2022-12-11 16:31:56] {Main.py:27} INFO - Start Locate decoder3e 3.
+[2022-12-11 16:31:58] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:31:58] {Repair.py:66} INFO - Suspicious Lines: {11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21}
+[2022-12-11 16:31:58] {Main.py:31} INFO - Locate Completed: 2.033470869064331s.
+[2022-12-11 16:31:58] {Main.py:27} INFO - Start Locate decoder3e 4.
+[2022-12-11 16:32:00] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:00] {Repair.py:66} INFO - Suspicious Lines: {12}
+[2022-12-11 16:32:00] {Main.py:31} INFO - Locate Completed: 2.0857720375061035s.
+[2022-12-11 16:32:00] {Main.py:27} INFO - Start Locate decoder3e 5.
+[2022-12-11 16:32:02] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:02] {Repair.py:66} INFO - Suspicious Lines: {11, 13, 16, 17, 18, 19, 20, 21, 27}
+[2022-12-11 16:32:02] {Main.py:31} INFO - Locate Completed: 2.033625364303589s.
+[2022-12-11 16:32:02] {Main.py:27} INFO - Start Locate JG3 1.
+[2022-12-11 16:32:04] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:04] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 13}
+[2022-12-11 16:32:04] {Main.py:31} INFO - Locate Completed: 2.1023478507995605s.
+[2022-12-11 16:32:04] {Main.py:27} INFO - Start Locate JG3 2.
+[2022-12-11 16:32:06] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:06] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 13, 14, 15, 16, 17, 18, 19, 20}
+[2022-12-11 16:32:06] {Main.py:31} INFO - Locate Completed: 2.0174179077148438s.
+[2022-12-11 16:32:06] {Main.py:27} INFO - Start Locate JG3 3.
+[2022-12-11 16:32:08] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:08] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 13, 14, 15, 16, 17}
+[2022-12-11 16:32:08] {Main.py:31} INFO - Locate Completed: 2.0517632961273193s.
+[2022-12-11 16:32:08] {Main.py:27} INFO - Start Locate JG3 4.
+[2022-12-11 16:32:10] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:10] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 13, 14, 15, 16, 17, 18}
+[2022-12-11 16:32:10] {Main.py:31} INFO - Locate Completed: 2.0203123092651367s.
+[2022-12-11 16:32:10] {Main.py:27} INFO - Start Locate JG3 5.
+[2022-12-11 16:32:12] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:12] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 13, 14, 15, 16, 17}
+[2022-12-11 16:32:12] {Main.py:31} INFO - Locate Completed: 2.0949625968933105s.
+[2022-12-11 16:32:12] {Main.py:27} INFO - Start Locate JG3 6.
+[2022-12-11 16:32:14] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:14] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 14, 15, 16, 17, 18}
+[2022-12-11 16:32:14] {Main.py:31} INFO - Locate Completed: 2.0248727798461914s.
+[2022-12-11 16:32:14] {Main.py:27} INFO - Start Locate JG3 7.
+[2022-12-11 16:32:16] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:16] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 14, 15, 16, 17, 18}
+[2022-12-11 16:32:16] {Main.py:31} INFO - Locate Completed: 2.020817518234253s.
+[2022-12-11 16:32:16] {Main.py:27} INFO - Start Locate JG3 8.
+[2022-12-11 16:32:18] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:18] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 14, 15, 16, 17, 18}
+[2022-12-11 16:32:18] {Main.py:31} INFO - Locate Completed: 2.004031181335449s.
+[2022-12-11 16:32:18] {Main.py:27} INFO - Start Locate JG3 9.
+[2022-12-11 16:32:20] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:20] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 14, 15, 16, 17, 18, 19}
+[2022-12-11 16:32:20] {Main.py:31} INFO - Locate Completed: 2.031048536300659s.
+[2022-12-11 16:32:20] {Main.py:27} INFO - Start Locate JG3 10.
+[2022-12-11 16:32:22] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:22] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 13, 14, 15, 16, 17}
+[2022-12-11 16:32:22] {Main.py:31} INFO - Locate Completed: 1.9947786331176758s.
+[2022-12-11 16:32:22] {Main.py:27} INFO - Start Locate JG3 11.
+[2022-12-11 16:32:24] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:24] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 14, 15, 16, 17, 18}
+[2022-12-11 16:32:24] {Main.py:31} INFO - Locate Completed: 2.0253260135650635s.
+[2022-12-11 16:32:24] {Main.py:27} INFO - Start Locate JG3 12.
+[2022-12-11 16:32:26] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:26] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 14, 15, 16, 17, 18, 19}
+[2022-12-11 16:32:26] {Main.py:31} INFO - Locate Completed: 2.036149501800537s.
+[2022-12-11 16:32:26] {Main.py:27} INFO - Start Locate JG3 13.
+[2022-12-11 16:32:28] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:28] {Repair.py:66} INFO - Suspicious Lines: {8, 12, 13, 14, 15, 16, 17, 18, 19}
+[2022-12-11 16:32:28] {Main.py:31} INFO - Locate Completed: 2.0221853256225586s.
+[2022-12-11 16:32:28] {Main.py:27} INFO - Start Locate JG3 14.
+[2022-12-11 16:32:30] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:30] {Repair.py:66} INFO - Suspicious Lines: {33, 37, 8, 41, 13, 17, 21, 25, 29}
+[2022-12-11 16:32:30] {Main.py:31} INFO - Locate Completed: 2.036550998687744s.
+[2022-12-11 16:32:30] {Main.py:27} INFO - Start Locate counter6bit 1.
+[2022-12-11 16:32:32] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:32] {Repair.py:66} INFO - Suspicious Lines: {36, 37, 38, 39, 40, 41, 11, 14, 16}
+[2022-12-11 16:32:32] {Main.py:31} INFO - Locate Completed: 2.022024393081665s.
+[2022-12-11 16:32:32] {Main.py:27} INFO - Start Locate counter6bit 2.
+[2022-12-11 16:32:34] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:34] {Repair.py:66} INFO - Suspicious Lines: {9, 22, 17, 15}
+[2022-12-11 16:32:34] {Main.py:31} INFO - Locate Completed: 2.0406832695007324s.
+[2022-12-11 16:32:34] {Main.py:27} INFO - Start Locate counter6bit 3.
+[2022-12-11 16:32:36] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:36] {Repair.py:66} INFO - Suspicious Lines: {32, 33, 34, 16, 18, 19, 29, 30, 31}
+[2022-12-11 16:32:36] {Main.py:31} INFO - Locate Completed: 2.00527286529541s.
+[2022-12-11 16:32:36] {Main.py:27} INFO - Start Locate counter6bit 4.
+[2022-12-11 16:32:38] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:38] {Repair.py:66} INFO - Suspicious Lines: {17}
+[2022-12-11 16:32:38] {Main.py:31} INFO - Locate Completed: 1.9978210926055908s.
+[2022-12-11 16:32:38] {Main.py:27} INFO - Start Locate counter6bit 5.
+[2022-12-11 16:32:40] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:40] {Repair.py:66} INFO - Suspicious Lines: {33, 15, 17, 18, 20, 22, 24, 26, 28, 30}
+[2022-12-11 16:32:40] {Main.py:31} INFO - Locate Completed: 2.033268928527832s.
+[2022-12-11 16:32:40] {Main.py:27} INFO - Start Locate counter6bit 6.
+[2022-12-11 16:32:42] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:43] {Repair.py:66} INFO - Suspicious Lines: {16, 18, 21, 23, 26}
+[2022-12-11 16:32:43] {Main.py:31} INFO - Locate Completed: 2.02436900138855s.
+[2022-12-11 16:32:43] {Main.py:27} INFO - Start Locate counter6bit 7.
+[2022-12-11 16:32:44] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:45] {Repair.py:66} INFO - Suspicious Lines: {17, 15}
+[2022-12-11 16:32:45] {Main.py:31} INFO - Locate Completed: 1.9982962608337402s.
+[2022-12-11 16:32:45] {Main.py:27} INFO - Start Locate counter6bit 8.
+[2022-12-11 16:32:46] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:46] {Repair.py:66} INFO - Suspicious Lines: {17, 20, 15}
+[2022-12-11 16:32:46] {Main.py:31} INFO - Locate Completed: 1.9793651103973389s.
+[2022-12-11 16:32:46] {Main.py:27} INFO - Start Locate counter6bit 9.
+[2022-12-11 16:32:48] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:48] {Repair.py:66} INFO - Suspicious Lines: {16, 17, 15}
+[2022-12-11 16:32:48] {Main.py:31} INFO - Locate Completed: 1.9978446960449219s.
+[2022-12-11 16:32:48] {Main.py:27} INFO - Start Locate counter6bit 10.
+[2022-12-11 16:32:50] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:50] {Repair.py:66} INFO - Suspicious Lines: {16, 15}
+[2022-12-11 16:32:50] {Main.py:31} INFO - Locate Completed: 1.9975123405456543s.
+[2022-12-11 16:32:50] {Main.py:27} INFO - Start Locate counter6bit 11.
+[2022-12-11 16:32:53] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:53] {Repair.py:66} INFO - Suspicious Lines: {17, 15}
+[2022-12-11 16:32:53] {Main.py:31} INFO - Locate Completed: 2.057209014892578s.
+[2022-12-11 16:32:53] {Main.py:27} INFO - Start Locate counter6bit 12.
+[2022-12-11 16:32:55] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:55] {Repair.py:66} INFO - Suspicious Lines: {9, 11}
+[2022-12-11 16:32:55] {Main.py:31} INFO - Locate Completed: 2.1202428340911865s.
+[2022-12-11 16:32:55] {Main.py:27} INFO - Start Locate counter6bit 13.
+[2022-12-11 16:32:57] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:57] {Repair.py:66} INFO - Suspicious Lines: {24, 17, 23, 15}
+[2022-12-11 16:32:57] {Main.py:31} INFO - Locate Completed: 2.035616159439087s.
+[2022-12-11 16:32:57] {Main.py:27} INFO - Start Locate counter6bit 14.
+[2022-12-11 16:32:59] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:32:59] {Repair.py:66} INFO - Suspicious Lines: {36, 37, 38, 39, 40, 41, 11, 14, 16}
+[2022-12-11 16:32:59] {Main.py:31} INFO - Locate Completed: 2.0553765296936035s.
+[2022-12-11 16:32:59] {Main.py:27} INFO - Start Locate counter6bit 15.
+[2022-12-11 16:33:01] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:01] {Repair.py:66} INFO - Suspicious Lines: {16, 17, 15}
+[2022-12-11 16:33:01] {Main.py:31} INFO - Locate Completed: 2.0742011070251465s.
+[2022-12-11 16:33:01] {Main.py:27} INFO - Start Locate counter6bit 16.
+[2022-12-11 16:33:03] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:03] {Repair.py:66} INFO - Suspicious Lines: {15, 17, 18, 20, 22, 24, 26, 28, 31}
+[2022-12-11 16:33:03] {Main.py:31} INFO - Locate Completed: 2.046790361404419s.
+[2022-12-11 16:33:03] {Main.py:27} INFO - Start Locate counter6bit 17.
+[2022-12-11 16:33:05] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:05] {Repair.py:66} INFO - Suspicious Lines: {17, 18, 19}
+[2022-12-11 16:33:05] {Main.py:31} INFO - Locate Completed: 2.0589287281036377s.
+[2022-12-11 16:33:05] {Main.py:27} INFO - Start Locate counter6bit 18.
+[2022-12-11 16:33:07] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:07] {Repair.py:66} INFO - Suspicious Lines: {17, 15}
+[2022-12-11 16:33:07] {Main.py:31} INFO - Locate Completed: 2.066915988922119s.
+[2022-12-11 16:33:07] {Main.py:27} INFO - Start Locate counter6bit 19.
+[2022-12-11 16:33:09] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:09] {Repair.py:66} INFO - Suspicious Lines: {15, 17, 19, 20, 22, 29, 30}
+[2022-12-11 16:33:09] {Main.py:31} INFO - Locate Completed: 2.0128042697906494s.
+[2022-12-11 16:33:09] {Main.py:27} INFO - Start Locate counter6bit 20.
+[2022-12-11 16:33:11] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:11] {Repair.py:66} INFO - Suspicious Lines: {16, 17, 15}
+[2022-12-11 16:33:11] {Main.py:31} INFO - Locate Completed: 2.002845048904419s.
+[2022-12-11 16:33:11] {Main.py:27} INFO - Start Locate counter6bit 21.
+[2022-12-11 16:33:13] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:13] {Repair.py:66} INFO - Suspicious Lines: {16, 17, 15}
+[2022-12-11 16:33:13] {Main.py:31} INFO - Locate Completed: 2.0883986949920654s.
+[2022-12-11 16:33:13] {Main.py:27} INFO - Start Locate counter6bit 22.
+[2022-12-11 16:33:15] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:15] {Repair.py:66} INFO - Suspicious Lines: {13, 14, 15, 17, 18}
+[2022-12-11 16:33:15] {Main.py:31} INFO - Locate Completed: 2.0981791019439697s.
+[2022-12-11 16:33:15] {Main.py:27} INFO - Start Locate counter6bit 23.
+[2022-12-11 16:33:17] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:17] {Repair.py:66} INFO - Suspicious Lines: {15, 17, 19, 21, 28, 29}
+[2022-12-11 16:33:17] {Main.py:31} INFO - Locate Completed: 2.0179193019866943s.
+[2022-12-11 16:33:17] {Main.py:27} INFO - Start Locate decl7s 1.
+[2022-12-11 16:33:19] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:19] {Repair.py:66} INFO - Suspicious Lines: {5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24}
+[2022-12-11 16:33:19] {Main.py:31} INFO - Locate Completed: 2.115501880645752s.
+[2022-12-11 16:33:19] {Main.py:27} INFO - Start Locate decl7s 2.
+[2022-12-11 16:33:21] {Repair.py:60} INFO - Locating suspicious df nodes.
+[2022-12-11 16:33:21] {Repair.py:66} INFO - Suspicious Lines: {5, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25}
+[2022-12-11 16:33:21] {Main.py:31} INFO - Locate Completed: 2.081709146499634s.
